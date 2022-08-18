@@ -16,7 +16,7 @@ GIC Bank App is a simple banking system that handles operations on bank accounts
 * [Quick Start](#quick-start)
 * [Features](#Features)
 * [System Design](#system-design)
-* [Assumption]()
+* [Assumptions](#assumptions)
     + [1. Depositing into account: `d`](#1-depositing-into-account-d)
     + [2. Withdrawing from account: `w`](#2-withdrawing-from-account-w)
     + [3. Printing bank statements: `p`](#3-printing-bank-statements-p)
